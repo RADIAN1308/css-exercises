@@ -1,0 +1,16 @@
+.odd{
+    background-color: pink;
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+#bun{
+    color: blue;
+    font-size: 36px;
+}
+.child{
+    font-size: 24px;
+    font-weight: bold;
+}
+#nub{
+    background-color: lightgreen;
+    font-size: 24px;
+}
